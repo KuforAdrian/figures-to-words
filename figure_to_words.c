@@ -16,7 +16,7 @@ unsigned long int k;
 int main(){
     unsigned long long number,temp_number;
     int i,j=0,k,p;
-    printf("enter your number in figures\n");
+    printf("enter your desired number in figures\n");
     scanf("%lld",&number);
     
     if(number==0){
